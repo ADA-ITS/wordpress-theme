@@ -1,0 +1,31 @@
+/*
+Theme Name: ADA Theme Clase
+Theme URI: https://adaits.es/theme
+Author: Fran Delgado
+Author URI: https://thinway.org
+Description: ADA ITS WordPress Site Theme.
+Version: 0.1
+License: GNU General Public v3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: one-column, two-columns, right-sidebar, left-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: ada
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+#footer {
+    background-color: grey;
+}
+
+.row {
+    font-family: 'Ranga', sans-serif;
+}
+
+.sticky {
+    border-radius: 5px;
+    border: 2   px solid blue;
+    background-color: aquamarine;
+    padding: 10px;
+    margin-bottom: 5px;
+}
